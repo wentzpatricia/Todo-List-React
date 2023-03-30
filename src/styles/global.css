@@ -1,0 +1,30 @@
+:root {
+  --background-color: #0d0d0d;
+  --background-color-2: #333333;
+  --border-form: 1px solid #0d0d0d;
+  --border: 1px solid #333333;
+  --border-2: 2px solid #b139f0;
+  --color-font-1: #b139f0;
+  --color-font-2: #2bbf99;
+  --color-font-3: #f2f2f2;
+  --color-font-4: #262626;
+  --color-font-5: #808080;
+  --color-font-6: #a045d8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background: #191919;
+  color: #f2f2f2;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}
